@@ -1,5 +1,6 @@
-# GoogleMusicMaker
-Make a playlist of all an artist's songs on Google Play Music just by entering their name
+# BaconBeacon
+
+Find delicious bacon within five miles of your location. Minutes later, eat said bacon (courtesy of the Locu API)
 
 ## Build & development
 
